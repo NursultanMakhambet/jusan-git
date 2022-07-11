@@ -18,7 +18,7 @@ ___
 
 ___
 
-`bash ./script.sh`
+`	bash ./script.sh`
 
 ## Портирование (h2)
 
@@ -28,21 +28,23 @@ ___
 
 На Java
 
-```class Main {		
-public static void main(String[] args) {
-System.out.println("777");
-}
-}
+```	class Main {		
+		public static void main(String[] args) {
+			System.out.println("777");
+		}
+	}
 ```
 
 На C++
 
-```#include <iostream>
-using namespace std;
-int main() {
-cout << 777 << endl;
-return 0;
-}
+```	#include <iostream>
+	
+	using namespace std;
+	
+	int main() {
+		cout << 777 << endl;
+		return 0;
+	}
 ```
 
 >! Попробуйте реализовать на Python, Go и JavaScript.
