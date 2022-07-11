@@ -1,5 +1,4 @@
-# stepik-id-printer (h1)
-
+# stepik-id-printer (h1) [jusan](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67)
 ___
 
 Это проект для вывода моего персонального идентификатора на **образовательной платформе** `stepik.org`
