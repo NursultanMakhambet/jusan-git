@@ -32,7 +32,8 @@ ___
 public static void main(String[] args) {
 System.out.println("777");
 }
-}```
+}
+```
 
 На C++
 
@@ -41,7 +42,8 @@ using namespace std;
 int main() {
 cout << 777 << endl;
 return 0;
-}```
+}
+```
 
 >! Попробуйте реализовать на Python, Go и JavaScript.
 
