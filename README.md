@@ -28,7 +28,8 @@ ___
 
 На Java
 
-```	class Main {		
+```	
+	class Main {		
 		public static void main(String[] args) {
 			System.out.println("777");
 		}
@@ -37,7 +38,8 @@ ___
 
 На C++
 
-```	#include <iostream>
+```	
+	#include <iostream>
 	
 	using namespace std;
 	
