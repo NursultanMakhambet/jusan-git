@@ -1,3 +1,5 @@
+скрипт username.sh выводит Имя Фамилия
+
 # stepik-id-printer (h1)
 
 ___
